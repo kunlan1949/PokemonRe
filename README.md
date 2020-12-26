@@ -1,6 +1,8 @@
 # 精灵宝可梦（红宝石）重置版
 ![](https://github.com/kunlan1949/PokemonRe/blob/Main_Branch/Pokemon_Re.png) </br>
 
+### 本项目进度：http://progressed.io/bar/28?title=开发中
+
 ## 本项目包含以下内容：
 ### 1.完整的GMS2项目源码，语言为[GML](https://gamemakerchina.github.io/GMS2_manual_en2ch/ "点击此处跳转GML中文文档") </br>
 ### 2.精心设计的Readme文件 </br>
