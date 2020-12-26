@@ -1,10 +1,10 @@
-# Pokemon (Ruby) reset version
+# Pokemon (Ruby) Reset Version
 ![](https://github.com/kunlan1949/PokemonRe/blob/Main_Branch/Pokemon_Re.png) </br>
 
 <img src="https://img.shields.io/docker/stars/tsund/tianchi_docker_practice.svg"/> </br>
 <img src="https://img.shields.io/github/last-commit/tensorflow/tensorflow.svg"/>
 
-### Progress of this project: [![codecov](https://codecov.io/gh/kunlan1949/PokemonRe/branch/Main_Branch/graph/badge.svg?token=FVBSLLBDRC)](https://codecov.io /gh/kunlan1949/PokemonRe)
+### Progress of this project: 
 
 ## This project contains the following content:
 ### 1. The complete GMS2 project source code, the language is [GML](https://gamemakerchina.github.io/GMS2_manual_en2ch/ "Click here to jump to the GML Chinese document") </br>
@@ -17,6 +17,7 @@
 
 ## Content list
 
+####-[Readmd_CN](#Readmd_CN)
 ####-[Background](#Background)
 ####-[Install](#Install)
 ####-[Usage Instructions](#Usage Instructions)
