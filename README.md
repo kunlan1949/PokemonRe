@@ -3,7 +3,7 @@
 <p align="center">
  <img src="https://github.com/kunlan1949/PokemonRe/blob/Main_Branch/Pokemon_Rebuild.png" align="center" alt="Pokemon Re Logo" />
  <h2 align="center">Pokemon Rebuild</h2>
- <p align="center">不认输,不逃避,世界上没有不停止的雨!</p>
+ <p align="center">Do not admit defeat, do not escape, there is no non-stop rain in the world!</p>
 </p>
 <p align="center">
   <a >
