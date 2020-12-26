@@ -104,4 +104,4 @@ $ standard-readme-spec
 
 ## 使用许可
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE) © Kunlan1949
