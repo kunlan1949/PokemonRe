@@ -1,11 +1,32 @@
 # Pokemon (Ruby) Reset Version
-![](https://github.com/kunlan1949/PokemonRe/blob/Main_Branch/Pokemon_Re.png) </br>
 
-<img src="https://img.shields.io/github/last-commit/kunlan1949/PokemonRe.svg"/>
-<img src="https://img.shields.io/github/stars/kunlan1949/PokemonRe.svg"/>
-<img src="https://img.shields.io/github/forks/kunlan1949/PokemonRe.svg"/>
+<p align="center">
+ <img src="https://github.com/kunlan1949/PokemonRe/blob/Main_Branch/Pokemon_Re.png" align="center" alt="Pokemon Re Logo" />
+ <h2 align="center">Pokemon Re</h2>
+ <p align="center">Do not admit defeat, do not escape, there is no non-stop rain in the world!</p>
+</p>
+<p align="center">
+  <a >
+    <img alt="Last-commit" src="https://img.shields.io/github/last-commit/kunlan1949/PokemonRe.svg" />
+  </a>
+  <a >
+    <img alt="stars" src="https://img.shields.io/github/stars/kunlan1949/PokemonRe.svg" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <img alt="Forks" src="https://img.shields.io/github/forks/kunlan1949/PokemonRe.svg" />
+  </a>
+  <br />
+  <br />
+  <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+    <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+  </a>
+  <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
+    <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+  </a>
+</p>
 
-### Progress of this project: <div align=center><img src="https://img.shields.io/badge/Progress-1%25-%2300FF7F?style=for-the-badge&logo=appveyor"/> </div>
+
+### Progress of this project: <div align=center><img width="300" src="https://img.shields.io/badge/Progress-1%25-%2300FF7F?style=for-the-badge&logo=appveyor"/> </div>
 
 ## This project contains the following content:
 ### 1. The complete GMS2 project source code, the language is [GML](https://gamemakerchina.github.io/GMS2_manual_en2ch/ "Click here to jump to the GML Chinese document") </br>
