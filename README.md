@@ -1,8 +1,8 @@
 # Pokemon (Ruby) Reset Version
 
 <p align="center">
- <img src="https://github.com/kunlan1949/PokemonRe/blob/Main_Branch/Pokemon_Re.png" align="center" alt="Pokemon Re Logo" />
- <h2 align="center">Pokemon Re</h2>
+ <img src="https://github.com/kunlan1949/PokemonRe/blob/Main_Branch/Pokemon_Rebuild.png" align="center" alt="Pokemon Re Logo" />
+ <h2 align="center">Pokemon Rebuild</h2>
  <p align="center">Do not admit defeat, do not escape, there is no non-stop rain in the world!</p>
 </p>
 <p align="center">
@@ -27,7 +27,10 @@
 
 
 ### Progress of this project: <div align=center><img width="300" src="https://img.shields.io/badge/Progress-1%25-%2300FF7F?style=for-the-badge&logo=appveyor"/> </div>
-
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 ## This project contains the following content:
 ### 1. The complete GMS2 project source code, the language is [GML](https://gamemakerchina.github.io/GMS2_manual_en2ch/ "Click here to jump to the GML Chinese document") </br>
 ### 2. Well-designed Readme file </br>
