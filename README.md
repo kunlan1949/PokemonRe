@@ -1,5 +1,5 @@
 # 精灵宝可梦（红宝石）重置版
-
+![](https://github.com/penghuwan/water.js/blob/master/logo.png)
 本项目包含以下内容：
 
 1.完整的GMS2项目源码，语言为[GML](https://gamemakerchina.github.io/GMS2_manual_en2ch/ "点击此处跳转GML中文文档") </br>
