@@ -1,11 +1,11 @@
 # Pokemon (Ruby) Reset Version
 ![](https://github.com/kunlan1949/PokemonRe/blob/Main_Branch/Pokemon_Re.png) </br>
 
-<img src="https://img.shields.io/docker/stars/tsund/tianchi_docker_practice.svg"/> </br>
 <img src="https://img.shields.io/github/last-commit/kunlan1949/PokemonRe.svg"/>
 <img src="https://img.shields.io/github/stars/kunlan1949/PokemonRe.svg"/>
+<img src="https://img.shields.io/github/forks/kunlan1949/PokemonRe.svg"/>
 
-### Progress of this project: 
+### Progress of this project: <div align=center><img src="https://img.shields.io/badge/Progress-1%25-%2300FF7F?style=for-the-badge&logo=appveyor"/> </div>
 
 ## This project contains the following content:
 ### 1. The complete GMS2 project source code, the language is [GML](https://gamemakerchina.github.io/GMS2_manual_en2ch/ "Click here to jump to the GML Chinese document") </br>
