@@ -1,7 +1,10 @@
 # 精灵宝可梦（红宝石）重置版
 ![](https://github.com/kunlan1949/PokemonRe/blob/Main_Branch/Pokemon_Re.png) </br>
 
-### 本项目进度：http://progressed.io/bar/28?title=开发中
+<img src="https://img.shields.io/docker/stars/tsund/tianchi_docker_practice.svg"/>  </br>
+<img src="https://img.shields.io/github/last-commit/tensorflow/tensorflow.svg"/>
+
+### 本项目进度：[![codecov](https://codecov.io/gh/kunlan1949/PokemonRe/branch/Main_Branch/graph/badge.svg?token=FVBSLLBDRC)](https://codecov.io/gh/kunlan1949/PokemonRe)
 
 ## 本项目包含以下内容：
 ### 1.完整的GMS2项目源码，语言为[GML](https://gamemakerchina.github.io/GMS2_manual_en2ch/ "点击此处跳转GML中文文档") </br>
@@ -107,5 +110,6 @@ $ standard-readme-spec
 
 
 ## 使用许可
+<img src="https://img.shields.io/badge/license-MIT-green"/>
 
 [MIT](LICENSE) © Kunlan1949
