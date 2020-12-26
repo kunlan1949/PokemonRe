@@ -2,8 +2,8 @@
 ![](https://github.com/kunlan1949/PokemonRe/blob/Main_Branch/Pokemon_Re.png) </br>
 
 <img src="https://img.shields.io/docker/stars/tsund/tianchi_docker_practice.svg"/> </br>
-<img src="https://img.shields.io/github/last-commit/tensorflow/tensorflow.svg"/>
-<img src="https://badgen.net/github/stars/micromatch/micromatch"/>
+<img src="https://img.shields.io/github/last-commit/kunlan1949/PokemonRe.svg"/>
+<img src="https://img.shields.io/github/stars/kunlan1949/PokemonRe.svg"/>
 
 ### Progress of this project: 
 
