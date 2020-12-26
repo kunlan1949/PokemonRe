@@ -1,12 +1,13 @@
 # 精灵宝可梦（红宝石）重置版
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
-
 本项目包含以下内容：
 
-1. 完整的GMS2项目源码，语言为GML
-
+1.完整的GMS2项目源码，语言为[GML](https://gamemakerchina.github.io/GMS2_manual_en2ch/ "点击此处跳转GML中文文档") </br>
+2.精心设计的Readme文件 </br>
+3.项目所有图片、音效资源 </br>
+4.一份免责声明 </br>
+5.一份MIT开源协议书 </br>
+6.开发者的对宝可梦系列的热爱 💓 💓 💓 💓 </br>
 ## 内容列表
 
 - [背景](#背景)
