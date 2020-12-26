@@ -17,16 +17,17 @@
   </a>
   <br />
   <br />
-  <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-    <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+  <a >
+    <img src="https://img.shields.io/badge/DESIGNEDBY-NINTENDO-%231E90FF?style=for-the-badge"/>
   </a>
-  <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-    <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+  <a >
+    <img src="https://img.shields.io/badge/UNOFFICIAL-WARNING-%23DC143C?style=for-the-badge"/>
   </a>
+</p>
 </p>
 
 
-### Progress of this project: <div align=center><img width="300" src="https://img.shields.io/badge/Progress-1%25-%2300FF7F?style=for-the-badge&logo=appveyor"/> </div>
+### Progress of this project: <div align=center><img width="300" src="https://img.shields.io/badge/Progress-1%25-%2300FF7F?style=for-the-badge"/> </div>
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
