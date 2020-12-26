@@ -1,10 +1,38 @@
 # 精灵宝可梦（红宝石）重置版
-![](https://github.com/kunlan1949/PokemonRe/blob/Main_Branch/Pokemon_Re.png) </br>
 
-<img src="https://img.shields.io/docker/stars/tsund/tianchi_docker_practice.svg"/>  </br>
-<img src="https://img.shields.io/github/last-commit/tensorflow/tensorflow.svg"/>
+<p align="center">
+ <img src="https://github.com/kunlan1949/PokemonRe/blob/Main_Branch/Pokemon_Rebuild.png" align="center" alt="Pokemon Re Logo" />
+ <h2 align="center">Pokemon Rebuild</h2>
+ <p align="center">不认输,不逃避,世界上没有不停止的雨!</p>
+</p>
+<p align="center">
+  <a >
+    <img alt="Last-commit" src="https://img.shields.io/github/last-commit/kunlan1949/PokemonRe.svg" />
+  </a>
+  <a >
+    <img alt="stars" src="https://img.shields.io/github/stars/kunlan1949/PokemonRe.svg" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <img alt="Forks" src="https://img.shields.io/github/forks/kunlan1949/PokemonRe.svg" />
+  </a>
+  <br />
+  <br />
+  <a >
+    <img src="https://img.shields.io/badge/版权-任天堂-%231E90FF?style=for-the-badge"/>
+  </a>
+  <a >
+    <img src="https://img.shields.io/badge/非官方-警告-%23DC143C?style=for-the-badge"/>
+  </a>
+</p>
+</p>
 
-### 本项目进度：[![codecov](https://codecov.io/gh/kunlan1949/PokemonRe/branch/Main_Branch/graph/badge.svg?token=FVBSLLBDRC)](https://codecov.io/gh/kunlan1949/PokemonRe)
+
+### Progress of this project: <div align=center><img width="300" src="https://img.shields.io/badge/Progress-1%25-%2300FF7F?style=for-the-badge"/> </div>
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 
 ## 本项目包含以下内容：
 ### 1.完整的GMS2项目源码，语言为[GML](https://gamemakerchina.github.io/GMS2_manual_en2ch/ "点击此处跳转GML中文文档") </br>
