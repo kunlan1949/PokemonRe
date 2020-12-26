@@ -3,14 +3,9 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 
-本仓库包含以下内容：
+本项目包含以下内容：
 
-1. 一个标准的 README 文件应该是什么样子的[规范](spec.md)。
-2. 一个用于维护 README 文件的语法提示工具的链接 ([正在进行中](https://github.com/RichardLitt/standard-readme/issues/5))。
-3. 一个创建标准 README 的[生成器](https://github.com/RichardLitt/generator-standard-readme)。
-4. 一个指向该规范的[徽章](#徽章)。
-5. [标准 README 的实例](example-readmes/) - 比如你正在读的这个文件。
-标准 Readme 是为了开源组件设计的。尽管它的[背景](#背景)是为了服务于 Node 和 npm 项目, 它同时也可以应用到其他编程语言和包管理器中去。
+1. 完整的GMS2项目源码，语言为GML
 
 ## 内容列表
 
